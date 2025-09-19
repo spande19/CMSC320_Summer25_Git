@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Using Git allows people to work on code collaboratively with it's branch features. Additionally, you can experiment and mess around with the code without making changes to the main version. You can also keep track of version control, going back in time to see edits and restore any versions. It is also the industry standard to use Git.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: I think data science could be applied to just about any field. One field I can think of is the sports industry. You can use data science to analyze performance and then apply a strategy based off of that. For example, NBA teams track player data in order to optimize lineups. 
+
